@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Welcome To My Page!
 - I am Naiema Elsaadi.
-- I'm currently pursuing my MS in Data Analytics from Northwest Missouri State University.
+- I hold a Master's of Science in Data Analytics from Northwest Missouri State University.
 - Currently, I'm working as a Substitute Teacher. 
 - I’m interested in collaborating on projects related to machine learning, data science, or data analytics.
 - I'm proficient in Python, SQL, C++, and JavaScript.
@@ -12,9 +12,9 @@
 
   
 ### Education:
-Northwest Missouri State University: Pursuing a Master's degree in Data Analytics
+Northwest Missouri State University: Completed a Master's degree in Data Analytics
 
-🎓 Expected Graduation: May 2024
+🎓 Expected Graduation: April 27th, 2024
 
 ### Projects
 
