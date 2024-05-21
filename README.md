@@ -14,7 +14,7 @@
 ### Education:
 Northwest Missouri State University: Completed a Master's degree in Data Analytics
 
-🎓 Expected Graduation: April 27th, 2024
+🎓  Graduated in May, 2024
 
 ### Projects
 
